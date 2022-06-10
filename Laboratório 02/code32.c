@@ -10,7 +10,7 @@ int main() {
     if (temp < 10) {
         wprintf(L"Está muito frio.\n");
     } else if (temp < 20) {
-        wprintf(L"Está frio.\n";)
+        wprintf(L"Está frio.\n");
     } else if (temp < 30) {
         wprintf(L"A temperatura está agradável.\n");
     } else {
